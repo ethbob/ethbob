@@ -5,7 +5,7 @@ Aspiring **Solana / Ethereum blockchain developer**, currently learning **Solidi
 - 🔭 Currently learning: Solidity (EVM smart contracts) & Rust (Solana programs, Anchor)
 - 🌱 Building and shipping small contracts/programs as I go — everything here is in public
 - 🎯 Goal: land a junior blockchain developer role
-- 📫 Reach me: [LinkedIn](#https://www.linkedin.com/in/michael-bobov-4a1691229/)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/michael-bobov-4a1691229/)
 
 #### Stack I'm working with
 `Solidity` `Rust` `Anchor` `Foundry` `Hardhat` `Ethers.js` `Solana Web3.js`
