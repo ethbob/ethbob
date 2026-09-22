@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm ethbob 👋
 
-<!--
-**ethbob/ethbob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **Solana / Ethereum blockchain developer**, currently learning **Solidity** and **Rust**.
 
-Here are some ideas to get you started:
+- 🔭 Currently learning: Solidity (EVM smart contracts) & Rust (Solana programs, Anchor)
+- 🌱 Building and shipping small contracts/programs as I go — everything here is in public
+- 🎯 Goal: land a junior blockchain developer role
+- 📫 Reach me: [LinkedIn](#) · [X/Twitter](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Stack I'm working with
+`Solidity` `Rust` `Anchor` `Foundry` `Hardhat` `Ethers.js` `Solana Web3.js`
+
+#### Projects
+| Project | Description | Stack |
+|---|---|---|
+| _coming soon_ | first contracts in progress | Solidity |
+
+_Profile in progress — actively learning and building. Check back for updates._
